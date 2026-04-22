@@ -1,0 +1,4 @@
+interface:
+  display_name: "My Coding Memo Skill"
+  short_description: "Install repo memo workflow"
+  default_prompt: "Use $my-coding-memo-skill to initialize or repair the repository memo workflow: create or refresh the docs templates first, update or create AGENTS.md, also update or create CLAUDE.md when needed, auto-detect the user's timezone unless an explicit override is requested, and resume by reading the latest plan and memo."

@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDEs / Editors
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Local config or environments
+.env
+venv/
+env/
